@@ -1,0 +1,5 @@
+org\co\ibero\ServerApplication.class
+org\co\ibero\persistence\repository\BookRepository.class
+org\co\ibero\ServletInitializer.class
+org\co\ibero\persistence\entity\Book.class
+org\co\ibero\controller\BookController.class
